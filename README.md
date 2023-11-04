@@ -2,8 +2,7 @@
 
 A page template built with astro and tailwindcss using tailus blocks.
 
-![Tailus astro based theme](./public/astrolus-light.png)
-![Tailus astro based dark theme](./public/astrolus-dark.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa09e486-19bf-4c23-945d-1452b69d3c2c/deploy-status)](https://app.netlify.com/sites/jameedium-org/deploys)
 
 ## 🚀 Project Structure
 
